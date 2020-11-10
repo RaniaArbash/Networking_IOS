@@ -1,4 +1,6 @@
-[{
+{
+  "tickets": 
+  [{
   "id": 524, 
   "courseCode":"MAP", 
   "courseName":"Android"
@@ -16,4 +18,6 @@
   "id": 529, 
   "courseCode":"MAP", 
   "courseName":"Cross-Platform"
-}]
+}
+            ]
+}
