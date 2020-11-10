@@ -1,23 +1,21 @@
 {
   "tickets": 
   [{
-  "id": 524, 
-  "courseCode":"MAP", 
-  "courseName":"Android"
+  "type": "Balcony Level", 
+  "price":1170, 
+  "inventory":12
 },
  {
-  "id": 114, 
-  "courseCode":"ITC", 
-  "courseName":"C language"
+ "type": "Lower Level", 
+  "price":10434, 
+    "inventory":20
+  
+  
 },
-{"id": 523, 
-  "courseCode":"MAP", 
-  "courseName":"iOS"
-},
- {
-  "id": 529, 
-  "courseCode":"MAP", 
-  "courseName":"Cross-Platform"
+{ 
+  "type": "Curtside", 
+  "price":27777, 
+   "inventory":24
 }
             ]
 }
