@@ -1,19 +1,19 @@
 {"student":"Rania Arbash",
  "version":"2",
  "timestamp":"2020-11-10T18:25:43+0000",
- "count":"3",
+ "count":3,
  "data":
 [{
-  "id":"524", 
+  "id":524, 
   "courseCode":"MAP", 
   "courseName":"Android"
 },
-{"id":"523", 
+{"id":523, 
   "courseCode":"MAP", 
   "courseName":"iOS"
 },
 {
-  "id":"529", 
+  "id":529, 
   "courseCode":"MAP", 
   "courseName":"Cross-Platform"
 }]
