@@ -1,5 +1,20 @@
+{"student":"Rania Arbash",
+ "version":"2",
+ "timestamp":"",
+ "count":"3",
+ "data":
+[{
+  "id":"524", 
+  "courseCode":"MAP", 
+  "courseName":"Android"
+},
+{"id":"523", 
+  "courseCode":"MAP", 
+  "courseName":"iOS"
+},
 {
-{524,"MAP","Android"},
-{523,"MAP","iOS"},
-{529,"MAP","Cross-Platform"}
+  "id":"529", 
+  "courseCode":"MAP", 
+  "courseName":"Cross-Platform"
+}]
 }
