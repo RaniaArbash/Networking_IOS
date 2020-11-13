@@ -13,13 +13,8 @@
   "courseCode":"ITC", 
   "courseName":"C language"
 },
-{"id": 523, 
-  "courseCode":"MAP", 
+{"id": 5334, 
+  "courseCode":"ITE", 
   "courseName":"iOS"
-},
- {
-  "id": 529, 
-  "courseCode":"MAP", 
-  "courseName":"Cross-Platform"
 }]
 }
